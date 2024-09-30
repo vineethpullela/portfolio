@@ -1,5 +1,5 @@
 import "./index.css"
-import footer_log from "../../assets/footer_logo.svg"
+
 import user_icon from "../../assets/user_icon.svg"
 
 

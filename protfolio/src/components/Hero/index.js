@@ -22,7 +22,7 @@ const Hero=()=>{
                 <div className="hero-resume" onClick={handleDownload}>                    
                    My resume</div>
             </div>
-            <a className="link" href={resume} download="VineethResume"  ref={resumeRef} hidden ></a>
+            <a className="link" href={resume} download="VineethResume"  ref={resumeRef} hidden >download resume</a>
         </div>
     )
 }

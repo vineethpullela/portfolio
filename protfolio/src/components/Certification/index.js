@@ -1,7 +1,5 @@
 import "./index.css"
 import theme_pattern from "../../assets/theme_pattern.svg"
-
-import mywork_data from "../../assets/mywork_data"
 import { GoArrowRight } from "react-icons/go";
 import Certificate from "../../assets/mycertificate";
 

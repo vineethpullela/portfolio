@@ -1,6 +1,6 @@
 import "./index.css"
 import  theme_pattern from "../../assets/theme_pattern.svg"
-import  profile_img from "../../assets/profile_img.svg"
+
 
 const About=()=>{
 
